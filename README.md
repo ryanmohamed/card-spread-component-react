@@ -1,6 +1,8 @@
 # Card Spread Component
 ![Demo Image](https://i.ibb.co/3Tt4wn7/Screen-Shot-2023-05-06-at-1-04-36-AM.png)
 ---
+### ![Check out the sandbox here.](https://codesandbox.io/s/card-spread-53ywmh)
+---
 ### Component driven development process. UX/UI designed card spread. Customizable CSS and component children & prop friendly. 
 ---
 ### Create a stack with ```<Stack>...</Stack>```
