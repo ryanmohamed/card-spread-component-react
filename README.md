@@ -3,7 +3,7 @@
 ---
 Component driven development process. UX/UI designed card spread. Customizable CSS and component children & prop friendly. 
 ---
-Create a stack with %<Stack>...</Stack>%
+Create a stack with % <Stack>...</Stack> %
 ---
 Insert 4 cards like 
 %
