@@ -32,22 +32,22 @@
 
 .Card:nth-child(1) {
   transform: translate3d(20px, -5px, 0) rotate(10deg);
-  background-image: url("./imgs/tile3.png");
+  background-image: url("/public/imgs/tile3.png");
   z-index: 10;
 }
 .Card:nth-child(2) {
   transform: translate3d(10px, -5px, 0) rotate(5deg);
-  background-image: url("./imgs/tile2.png");
+  background-image: url("/public/imgs/tile2.png");
   z-index: 9;
 }
 .Card:nth-child(3) {
   transform: translate3d(-10px, -5px, 0) rotate(2deg);
-  background-image: url("./imgs/tile1.png");
+  background-image: url("/public/imgs/tile3.png");
   z-index: 8;
 }
 .Card:nth-child(4) {
   transform: translate3d(-20px, -5px, 0) rotate(-5deg);
-  background-image: url("./imgs/tile4.png");
+  background-image: url("/public/imgs/tile4.png");
   z-index: 7;
 }
 
@@ -65,7 +65,6 @@
 
 .Stack:hover > .Card:nth-child(4) {
   transform: translate3d(-150px, -5px, 0) rotate(-5deg);
-  background-image: url("/imgs/tile4.png");
   z-index: 7;
 }
 
